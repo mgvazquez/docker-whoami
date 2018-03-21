@@ -15,7 +15,7 @@ This solution is based on [whoami](https://github.com/jwilder/whoami) project, d
 ---
 ### Docker Image
 
-[![](https://images.microbadger.com/badges/image/mgvazquez/whoami.svg)](https://microbadger.com/images/mgvazquez/whoami "Get your own image badge on microbadger.com")[![](https://images.microbadger.com/badges/version/mgvazquez/whoami.svg)](https://microbadger.com/images/mgvazquez/whoami "Get your own version badge on microbadger.com")[![](https://images.microbadger.com/badges/commit/mgvazquez/whoami.svg)](https://microbadger.com/images/mgvazquez/whoami "Get your own commit badge on microbadger.com")[![](https://images.microbadger.com/badges/license/mgvazquez/whoami.svg)](https://microbadger.com/images/mgvazquez/whoami "Get your own license badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/mgvazquez/whoami.svg)](https://microbadger.com/images/mgvazquez/whoami "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/mgvazquez/whoami.svg)](https://microbadger.com/images/mgvazquez/whoami "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/commit/mgvazquez/whoami.svg)](https://microbadger.com/images/mgvazquez/whoami "Get your own commit badge on microbadger.com") [![](https://images.microbadger.com/badges/license/mgvazquez/whoami.svg)](https://microbadger.com/images/mgvazquez/whoami "Get your own license badge on microbadger.com")
 ---
 
 ### Requirements
